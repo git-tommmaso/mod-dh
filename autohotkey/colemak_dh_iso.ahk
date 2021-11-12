@@ -30,6 +30,8 @@ SC02e::d
 SC030::\
 SC031::k
 SC032::h
+;^c::^x
+;^d::^c
 
 ; set Backspace to CapsLock key
 
